@@ -24,4 +24,5 @@ firebase init
 Перекинуть содержымое в папку Public
 
 Развертывание сайта
+
 firebase deploy --only hosting
